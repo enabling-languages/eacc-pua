@@ -9,8 +9,8 @@ font-family: "함초롬돋움 LVT","HCR Dotum LVT","함초롬바탕 LVT","HCR Ba
 
 ## Noto fonts
 
-* (Noto Sans Korean)[https://fonts.google.com/noto/specimen/Noto+Sans+KR]
-* (Noto Serif Korean)[https://fonts.google.com/noto/specimen/Noto+Serif+KR]
+* [Noto Sans Korean](https://fonts.google.com/noto/specimen/Noto+Sans+KR)
+* [Noto Serif Korean](https://fonts.google.com/noto/specimen/Noto+Serif+KR)
 
 ## Namum fonts for Historical Hangul
 
