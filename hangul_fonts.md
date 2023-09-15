@@ -14,9 +14,6 @@ font-family: "함초롬돋움 LVT","HCR Dotum LVT","함초롬바탕 LVT","HCR Ba
 
 ## Namum fonts for Historical Hangul
 
-* Nanum Myeongjo
-* Nanum Gothic
-* Nanum Barun Gothic
 * Nanum Myeongjo Yet Hangul
 * Nanum Barun Gothic Yet Hangul
 
